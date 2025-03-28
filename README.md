@@ -6,6 +6,7 @@ Hostwinds是一家成立于2008年的国外主机商，提供VPS、虚拟主机�
 ## hostwinds 优惠链接
 hostwinds：[https://www.hostwinds.com](https://www.hostwinds.com/11746.html)
 ## hostwinds 主要套餐
+|----------------------|--------------------|---------------|------------------------|--------------------|------------------------------------------|
 | VPS Server            | 1 核            | 1 GB RAM      | 30 GB SSD    |   1TB 流量       | $4.99/月        | [Buy Now](https://affiliates.hostwinds.com/hostwinds.php?id=11746&url=600) |
 | VPS Server            | 1 核            | 2 GB RAM      | 50 GB SSD    |   2TB 流量       | $9.99/月        | [Buy Now](https://affiliates.hostwinds.com/hostwinds.php?id=11746&url=600) |
 | VPS Server            | 2 核            | 4 GB RAM      | 75 GB SSD    |   2TB 流量       | $18.99/月        | [Buy Now](https://affiliates.hostwinds.com/hostwinds.php?id=11746&url=600) |
